@@ -1,0 +1,10 @@
+# BEGIN LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+<IfModule LiteSpeed>
+RewriteEngine on
+CacheLookup on
+RewriteRule .* - [E=Cache-Control:no-autoflush]
+
+### marker LOGIN COOKIE start ###
+RewriteRule .? - [E="Cache-Vary:wp-postpass_1233097993469c07c80a9cb529880b71"]
+### marker LOGIN COOKIE end ###

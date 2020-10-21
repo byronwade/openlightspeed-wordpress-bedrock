@@ -1,0 +1,89 @@
+[20-Oct-2020 04:08:56 UTC] PHP Fatal error:  Uncaught Roots\WPConfig\Exceptions\ConstantAlreadyDefinedException: Aborted trying to redefine constant 'WP_DEBUG_DISPLAY'. `define('WP_DEBUG_DISPLAY', ...)` has already been occurred elsewhere. in /var/www/html/vendor/roots/wp-config/src/Config.php:106
+Stack trace:
+#0 /var/www/html/vendor/roots/wp-config/src/Config.php(83): Roots\WPConfig\Config::defined()
+#1 /var/www/html/config/application.php(123): Roots\WPConfig\Config::apply()
+#2 /var/www/html/web/wp-config.php(8): require_once('/var/www/html/c...')
+#3 /var/www/html/web/wp/wp-load.php(42): require_once('/var/www/html/w...')
+#4 /var/www/html/web/wp/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#5 /var/www/html/web/wp/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/vendor/roots/wp-config/src/Config.php on line 106
+[20-Oct-2020 04:08:58 UTC] PHP Fatal error:  Uncaught Roots\WPConfig\Exceptions\ConstantAlreadyDefinedException: Aborted trying to redefine constant 'WP_DEBUG_DISPLAY'. `define('WP_DEBUG_DISPLAY', ...)` has already been occurred elsewhere. in /var/www/html/vendor/roots/wp-config/src/Config.php:106
+Stack trace:
+#0 /var/www/html/vendor/roots/wp-config/src/Config.php(83): Roots\WPConfig\Config::defined()
+#1 /var/www/html/config/application.php(123): Roots\WPConfig\Config::apply()
+#2 /var/www/html/web/wp-config.php(8): require_once('/var/www/html/c...')
+#3 /var/www/html/web/wp/wp-load.php(42): require_once('/var/www/html/w...')
+#4 /var/www/html/web/wp/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#5 /var/www/html/web/wp/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/vendor/roots/wp-config/src/Config.php on line 106
+[20-Oct-2020 04:08:59 UTC] PHP Fatal error:  Uncaught Roots\WPConfig\Exceptions\ConstantAlreadyDefinedException: Aborted trying to redefine constant 'WP_DEBUG_DISPLAY'. `define('WP_DEBUG_DISPLAY', ...)` has already been occurred elsewhere. in /var/www/html/vendor/roots/wp-config/src/Config.php:106
+Stack trace:
+#0 /var/www/html/vendor/roots/wp-config/src/Config.php(83): Roots\WPConfig\Config::defined()
+#1 /var/www/html/config/application.php(123): Roots\WPConfig\Config::apply()
+#2 /var/www/html/web/wp-config.php(8): require_once('/var/www/html/c...')
+#3 /var/www/html/web/wp/wp-load.php(42): require_once('/var/www/html/w...')
+#4 /var/www/html/web/wp/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#5 /var/www/html/web/wp/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/vendor/roots/wp-config/src/Config.php on line 106
+[20-Oct-2020 04:08:59 UTC] PHP Fatal error:  Uncaught Roots\WPConfig\Exceptions\ConstantAlreadyDefinedException: Aborted trying to redefine constant 'WP_DEBUG_DISPLAY'. `define('WP_DEBUG_DISPLAY', ...)` has already been occurred elsewhere. in /var/www/html/vendor/roots/wp-config/src/Config.php:106
+Stack trace:
+#0 /var/www/html/vendor/roots/wp-config/src/Config.php(83): Roots\WPConfig\Config::defined()
+#1 /var/www/html/config/application.php(123): Roots\WPConfig\Config::apply()
+#2 /var/www/html/web/wp-config.php(8): require_once('/var/www/html/c...')
+#3 /var/www/html/web/wp/wp-load.php(42): require_once('/var/www/html/w...')
+#4 /var/www/html/web/wp/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#5 /var/www/html/web/wp/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/vendor/roots/wp-config/src/Config.php on line 106
+[20-Oct-2020 04:08:59 UTC] PHP Fatal error:  Uncaught Roots\WPConfig\Exceptions\ConstantAlreadyDefinedException: Aborted trying to redefine constant 'WP_DEBUG_DISPLAY'. `define('WP_DEBUG_DISPLAY', ...)` has already been occurred elsewhere. in /var/www/html/vendor/roots/wp-config/src/Config.php:106
+Stack trace:
+#0 /var/www/html/vendor/roots/wp-config/src/Config.php(83): Roots\WPConfig\Config::defined()
+#1 /var/www/html/config/application.php(123): Roots\WPConfig\Config::apply()
+#2 /var/www/html/web/wp-config.php(8): require_once('/var/www/html/c...')
+#3 /var/www/html/web/wp/wp-load.php(42): require_once('/var/www/html/w...')
+#4 /var/www/html/web/wp/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#5 /var/www/html/web/wp/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/vendor/roots/wp-config/src/Config.php on line 106
+[20-Oct-2020 04:09:00 UTC] PHP Fatal error:  Uncaught Roots\WPConfig\Exceptions\ConstantAlreadyDefinedException: Aborted trying to redefine constant 'WP_DEBUG_DISPLAY'. `define('WP_DEBUG_DISPLAY', ...)` has already been occurred elsewhere. in /var/www/html/vendor/roots/wp-config/src/Config.php:106
+Stack trace:
+#0 /var/www/html/vendor/roots/wp-config/src/Config.php(83): Roots\WPConfig\Config::defined()
+#1 /var/www/html/config/application.php(123): Roots\WPConfig\Config::apply()
+#2 /var/www/html/web/wp-config.php(8): require_once('/var/www/html/c...')
+#3 /var/www/html/web/wp/wp-load.php(42): require_once('/var/www/html/w...')
+#4 /var/www/html/web/wp/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#5 /var/www/html/web/wp/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/vendor/roots/wp-config/src/Config.php on line 106
+[20-Oct-2020 04:09:00 UTC] PHP Fatal error:  Uncaught Roots\WPConfig\Exceptions\ConstantAlreadyDefinedException: Aborted trying to redefine constant 'WP_DEBUG_DISPLAY'. `define('WP_DEBUG_DISPLAY', ...)` has already been occurred elsewhere. in /var/www/html/vendor/roots/wp-config/src/Config.php:106
+Stack trace:
+#0 /var/www/html/vendor/roots/wp-config/src/Config.php(83): Roots\WPConfig\Config::defined()
+#1 /var/www/html/config/application.php(123): Roots\WPConfig\Config::apply()
+#2 /var/www/html/web/wp-config.php(8): require_once('/var/www/html/c...')
+#3 /var/www/html/web/wp/wp-load.php(42): require_once('/var/www/html/w...')
+#4 /var/www/html/web/wp/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#5 /var/www/html/web/wp/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/vendor/roots/wp-config/src/Config.php on line 106
+[20-Oct-2020 04:09:21 UTC] PHP Fatal error:  Uncaught Roots\WPConfig\Exceptions\ConstantAlreadyDefinedException: Aborted trying to redefine constant 'WP_DEBUG_DISPLAY'. `define('WP_DEBUG_DISPLAY', ...)` has already been occurred elsewhere. in /var/www/html/vendor/roots/wp-config/src/Config.php:106
+Stack trace:
+#0 /var/www/html/vendor/roots/wp-config/src/Config.php(83): Roots\WPConfig\Config::defined()
+#1 /var/www/html/config/application.php(123): Roots\WPConfig\Config::apply()
+#2 /var/www/html/web/wp-config.php(8): require_once('/var/www/html/c...')
+#3 /var/www/html/web/wp/wp-load.php(42): require_once('/var/www/html/w...')
+#4 /var/www/html/web/wp/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/web/index.php(6): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/vendor/roots/wp-config/src/Config.php on line 106
+[20-Oct-2020 04:09:22 UTC] PHP Fatal error:  Uncaught Roots\WPConfig\Exceptions\ConstantAlreadyDefinedException: Aborted trying to redefine constant 'WP_DEBUG_DISPLAY'. `define('WP_DEBUG_DISPLAY', ...)` has already been occurred elsewhere. in /var/www/html/vendor/roots/wp-config/src/Config.php:106
+Stack trace:
+#0 /var/www/html/vendor/roots/wp-config/src/Config.php(83): Roots\WPConfig\Config::defined()
+#1 /var/www/html/config/application.php(123): Roots\WPConfig\Config::apply()
+#2 /var/www/html/web/wp-config.php(8): require_once('/var/www/html/c...')
+#3 /var/www/html/web/wp/wp-load.php(42): require_once('/var/www/html/w...')
+#4 /var/www/html/web/wp/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/vendor/roots/wp-config/src/Config.php on line 106

@@ -1,0 +1,8 @@
+# Application
+web/app/uploads/*
+
+# Composer
+/vendor
+
+# WP-CLI
+wp-cli.local.yml
